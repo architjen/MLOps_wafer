@@ -1,7 +1,7 @@
 MLOps_wafer
 ==============================
 
-This is a toy project for end-to-end ML with MLOps
+This is a toy project for end-to-end ML and MLOps
 
 Project Organization
 ------------
